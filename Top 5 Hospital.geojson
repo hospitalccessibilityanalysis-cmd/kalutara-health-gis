@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "Top 5 Hospital2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "pointid": 163522, "grid_code": 8, "RASTERVALU": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 80.318745118274265, 6.465910634224486 ] } },
+{ "type": "Feature", "properties": { "pointid": 145016, "grid_code": 8, "RASTERVALU": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 80.303666835060355, 6.579591975952665 ] } },
+{ "type": "Feature", "properties": { "pointid": -9999, "grid_code": -9999, "RASTERVALU": 0.00207753 }, "geometry": { "type": "Point", "coordinates": [ 80.29715898062743, 6.57641788125949 ] } },
+{ "type": "Feature", "properties": { "pointid": -9999, "grid_code": -9999, "RASTERVALU": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 80.073819695233411, 6.807151546061927 ] } },
+{ "type": "Feature", "properties": { "pointid": -9999, "grid_code": -9999, "RASTERVALU": 0.0 }, "geometry": { "type": "Point", "coordinates": [ 80.036640628526428, 6.804749520841738 ] } }
+]
+}
